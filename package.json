@@ -1,0 +1,19 @@
+{
+  "name": "cypresspom",
+  "version": "1.0.0",
+  "description": "Proyecto de pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "automation",
+    "e2e",
+    "testing"
+  ],
+  "author": "Andres zapata",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
